@@ -13,6 +13,7 @@ A collection of awesome AI projects that you can use on your products as API or 
 - [Embeddings](#embeddings)
 - [Platforms](#platforms)
 - [GPU Hosts](#gpu-hosts)
+- [Model Chaining](#model-chaining)
 
 ---
 
@@ -88,3 +89,9 @@ _Platforms that provide more that just one API_
 - [Crusoe](https://www.crusoe.ai/cloud/pricing/index.html) - GPU Compute.
 - [LambdaLabs](https://lambdalabs.com/) - The GPU Cloud for AI. On-demand & reserved cloud GPUs for AI training & inference.
 - [RunPod](https://www.runpod.io) - The Cloud Built for AI. Globally distributed GPU cloud built for production.
+
+## LLM Chaining
+
+- [LlamaIndex](https://www.llamaindex.ai/) - Turn your enterprise data into production-ready LLM applications
+- [LangChain](https://www.langchain.com/) - Applications that can reason. Powered by LangChain.
+- [crew.ai](crewai.io) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
