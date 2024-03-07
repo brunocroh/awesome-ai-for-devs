@@ -7,7 +7,7 @@ A collection of awesome AI projects that you can use on your products as API or 
 - [Image](#image)
 - [Audio](#audio)
 - [Video](#video)
-- [Run models locally](#local-models)
+- [Run models locally](#run-models-locally)
 - [Model Language (Text/Chat)](#model-language)
 - [Code Completion](#code-completion)
 - [Embeddings](#embeddings)
@@ -62,7 +62,7 @@ A collection of awesome AI projects that you can use on your products as API or 
 
 ## Run models locally
 
-- [GPT4All](https://gpt4all.io/index.html)
+- [GPT4All](https://gpt4all.io/index.html) - A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++
 - [LM Studio](https://lmstudio.ai/) - Run any LLaMa Falcon MPT Gemma Replit GPT-Neo-X gguf models from Hugging Face
 - [Ollama](https://ollama.com/) - Run Llama 2, Code Llama, and other models. Customize and create your own.
