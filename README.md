@@ -22,10 +22,12 @@ A collection of awesome AI projects that you can use on your products as API or 
 
 - [OpenAI Image](https://platform.openai.com/docs/api-reference/images) - Given a prompt and/or an input image, the model will generate a new image.
 - [Leonardo.Ai](https://leonardo.ai/api/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+- [Stability Ai](https://platform.stability.ai/)
 
 ### Models
 
-- models here
+- [Stable diffusion](https://github.com/Stability-AI/stablediffusion)
+- [SDXL Lightning](https://huggingface.co/ByteDance/SDXL-Lightning)
 
 ## Model Language
 
@@ -38,7 +40,9 @@ A collection of awesome AI projects that you can use on your products as API or 
 
 ### Models
 
-\*\*\* models Here
+- [Gemma 7b](https://huggingface.co/google/gemma-7b)
+- [Mixtral 8x7b](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
+- [Llamma 7b chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
 
 ## Audio
 
@@ -46,13 +50,18 @@ A collection of awesome AI projects that you can use on your products as API or 
 
 - [ElevenLabs](https://elevenlabs.io/api) - Elevate your projects with the fastest & most powerful text to speech & voice API. Quickly generate AI voices in multiple languages for your chatbots, agents, LLMs, websites, apps and more.
 - [DupDub](https://www.dupdub.com/api) - Text-to-speech open API.
+- [Open Ai - text-to-speech](https://platform.openai.com/docs/guides/text-to-speech)
+- [Open Ai - speech-to-text](https://platform.openai.com/docs/guides/speech-to-text)
 
 ### Models
 
-\*\*\* models here
+- [Bark with voice clone](https://github.com/serp-ai/bark-with-voice-clone) - About 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+- [Piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
+- [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 ## Run models locally
 
+- [GPT4All](https://gpt4all.io/index.html)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++
 - [LM Studio](https://lmstudio.ai/) - Run any LLaMa Falcon MPT Gemma Replit GPT-Neo-X gguf models from Hugging Face
 - [Ollama](https://ollama.com/) - Run Llama 2, Code Llama, and other models. Customize and create your own.
@@ -68,6 +77,7 @@ _Platforms that provide more that just one API_
 ### Models as a service
 
 - [fal.ai](https://fal.ai/) - Fastest way to serve open source ML models to millions
+- [infermatic](https://infermatic.ai/)
 - [Replicate](https://replicate.com/) - Run AI with an API. Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
 - [stability.ai](https://stability.ai/) - Open models in every modality, for everyone, everywhere.
 
