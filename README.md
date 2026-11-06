@@ -88,6 +88,7 @@ _Platforms that provide more that just one API_
 - [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) - Run machine learning models, powered by serverless GPUs, on Cloudflare's global network.
 - [Crusoe](https://www.crusoe.ai/cloud/pricing/index.html) - GPU Compute.
 - [LambdaLabs](https://lambdalabs.com/) - The GPU Cloud for AI. On-demand & reserved cloud GPUs for AI training & inference.
+- [QIT](https://qit.energy) - GPU containers. Built for AI. AI Model API plus serverless/reserved GPUs (QIT Pods).
 - [RunPod](https://www.runpod.io) - The Cloud Built for AI. Globally distributed GPU cloud built for production.
 
 ## LLM Chaining
